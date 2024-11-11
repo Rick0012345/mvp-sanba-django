@@ -82,7 +82,7 @@
 
 body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   letter-spacing: 1px;
   margin: 0;
   padding: 0;
@@ -163,7 +163,6 @@ main h2 {
   letter-spacing: 4px;
 }
 
-/*Missao/Objetivo/Quem Somos */
 
 .sessões {
   display: flex;
@@ -356,7 +355,6 @@ opacity: 0.6;
  
 }
 
-/* TOOL TIP ICONES REDES SOCIAIS DENTRO FOOTER*/ 
 
 .tooltip  {
   position: relative;
